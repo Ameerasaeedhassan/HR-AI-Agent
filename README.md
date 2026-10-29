@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🤖 DemoCo HR Copilot — AI Agent
 
 An AI-powered HR assistant built using **Python, LangGraph, Llama 3.2, RAG, and SQLite**.
@@ -61,3 +62,19 @@ The core AI agent workflow has been developed, including LangGraph integration, 
 ---
 
 *An educational project exploring Agentic AI, tool calling, RAG, and multi-step AI workflows.*
+=======
+# DemoCo HR Copilot
+
+Educational HR assistant using fictional company policies
+and employee data.
+
+## Technology
+- Ollama: llama3.2:3b
+- LangGraph: agent loop and conversation memory
+- RAG: policy retrieval with section citations
+- SQLite: employee data
+- Streamlit: chat interface
+
+## Status
+ Evaluation and remaining fixes are ongoing.
+>>>>>>> 5f75f3e2a6a326a8b59ded22f40711899ce28042
