@@ -1,20 +1,18 @@
-# Virtual environment
+# Python environment
 .venv/
-
-# Python cache
 __pycache__/
 *.pyc
 
-# Secrets and API keys
+# Secrets
 .env
 .env.*
+!.env.example
 .streamlit/secrets.toml
 
-# Hide all other files from GitHub
-/*
+# VS Code settings
+.vscode/
 
-# Keep only these files visible
-!/hr_agent.py
-!/leave_calculator.py
-!/policy_qa.py
-!/.gitignore
+# Development-only test file
+test_generation.py
+
+!/README.md
