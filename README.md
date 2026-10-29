@@ -1,31 +1,29 @@
-#  DemoCo HR Copilot — AI Agent
+# DemoCo HR Copilot — AI Agent
 
-An AI-powered HR assistant built using **Python, LangGraph, Llama 3.2, RAG, and SQLite**.
+An AI-powered HR assistant built with **Python, LangGraph, Llama 3.2, RAG, and SQLite**.
 
-The project demonstrates how an AI agent can understand HR-related questions, select the appropriate tools, retrieve information from company policies, query employee records, and calculate leave balances.
+The project demonstrates how an AI agent can interpret HR questions, choose the appropriate tools, retrieve relevant company policies, query fictional employee records, and calculate leave balances. It was developed as an educational project using **fictional policies and employee data only**.
 
-The system uses fictional company policies and employee data for educational purposes.
 ## 🌐 Live Demo
 
-[Try HR AI Copilot](https://gold-adware-piece-christ.trycloudflare.com)
+[Try HR AI Copilot](https://gold-adware-piece-christ.trycloudflare.com/)
 
-Note: This is a temporary demonstration link,
-available only during active testing sessions.
+**Note:** This is a temporary demo link provided through Cloudflare Tunnel. It works only during active testing sessions while Streamlit, Ollama, and the tunnel are running on the host computer. The link may change between sessions.
 
 ## Technologies & Tools
 
-- **Python:** Main programming language for the agent and its tools.
-- **Llama 3.2 (3B) + Ollama:** Runs a local LLM for decision-making, tool selection, and evaluating responses.
-- **LangGraph:** Manages the agent workflow, tool execution, conversation memory, and decision-making loop.
-- **RAG (Retrieval-Augmented Generation):** Retrieves relevant information from HR policy documents instead of relying only on the LLM's knowledge.
-- **SQLite:** Stores fictional employee records and supports SQL queries for employee-related information.
-- **Leave Calculator:** Calculates remaining paid sick leave using employee leave records.
-- **Streamlit:** Web-based chat interface for interacting with the HR assistant.
-- **Pydantic:** Validates structured responses and supporting policy evidence.
+- **Python:** Core language for the agent, tools, and data processing.
+- **Llama 3.2 (3B) + Ollama:** Runs a local language model for selecting tools and checking whether a request is complete, without requiring a paid external LLM API.
+- **LangGraph:** Coordinates the model, tool execution, review loop, and conversation state.
+- **RAG (Retrieval-Augmented Generation):** Searches HR policy documents for relevant evidence rather than relying on model knowledge alone.
+- **SQLite:** Stores fictional employee records and supports structured employee-data queries.
+- **Sick Leave Calculator:** Calculates remaining paid sick leave from recorded employee leave data.
+- **Streamlit:** Provides an interactive chat interface for the demo.
+- **Pydantic:** Validates structured outputs and supporting policy evidence.
 
 ## HR Policy Knowledge Base
 
-The RAG system uses five fictional company policy documents:
+The RAG knowledge base contains five fictional policy documents:
 
 1. Annual Leave Policy
 2. Sick Leave Policy
@@ -33,39 +31,59 @@ The RAG system uses five fictional company policy documents:
 4. Employee Benefits Policy
 5. Probation Policy
 
-The policies are divided into searchable sections with unique IDs, such as `AL-02` and `SL-07`.
+Each policy is divided into searchable sections with identifiers such as `AL-02` and `SL-07`. When a user asks a policy question, the retrieval component searches for relevant passages, and Llama 3.2 selects supporting evidence. The system checks quotations against the original text before displaying them with section citations.
 
-When an employee asks a policy question, the system retrieves relevant sections and uses the LLM to select supporting evidence. It validates the selected quotations against the original documents and provides section citations.
+If the documents do not support an answer, the assistant reports that the information is unavailable instead of inventing a policy.
 
-If a question cannot be answered from the available policies, the assistant reports insufficient information rather than generating an unsupported answer.
+## Architecture & Design Decisions
 
-##  How the AI Agent Works
+The HR Copilot uses a **modular agent architecture**. Agent orchestration, policy retrieval, employee-data queries, and leave calculations are kept in separate Python modules so the project is easier to test, maintain, and extend.
 
-The agent uses a **LangGraph workflow** to select and execute tools based on the user's question.
+### Agent Workflow
 
-- **Policy Tool:** Searches HR policies using RAG and returns verified information with citations.
-- **SQL Tool:** Queries the employee database for information such as employee counts, departments, and employment details.
-- **Sick Leave Calculator:** Retrieves employee leave information and calculates remaining paid sick leave.
-- **Conversation Memory:** Maintains conversation context to handle follow-up questions.
-- **Review Node:** Checks whether the executed tools have answered all parts of the user's request.
+**Streamlit UI → LangGraph model node → selected tool → review node → verified response**
 
-The agent also handles out-of-scope questions and requests with missing information.
+1. A user submits an HR question through the Streamlit interface.
+2. The Llama 3.2 model, called through Ollama's local API, chooses an appropriate action.
+3. LangGraph executes the selected tool: policy RAG, employee SQL, or sick leave calculation.
+4. The review node checks whether the tool results address the user's full request. If information is still missing, the workflow can return to the model to select another tool.
+5. The agent displays the available evidence and answer in the chat interface. Conversation state is maintained using LangGraph's `InMemorySaver`.
 
-##  Current Development Status
+### Why This Design?
 
-The core AI agent workflow has been developed, including LangGraph integration, LLM-based tool routing, RAG policy retrieval, SQLite queries, and sick leave calculations.
+- **LangGraph** provides explicit control of the model–tools–review loop and supports follow-up questions through conversation state.
+- **Local Llama 3.2 via Ollama** lets the project run without a paid external API; it does require Ollama to be running on the host computer.
+- **RAG with verified citations** grounds policy answers in the supplied documents and reduces unsupported responses.
+- **SQLite and a dedicated SQL tool** keep structured employee-data access separate from policy retrieval.
+- **A dedicated calculator** performs deterministic sick leave arithmetic rather than asking the LLM to calculate balances itself.
+- **Separate modules** make the agent easier to debug and prepare it for future extensions.
+- **Streamlit** provides a lightweight way to demonstrate the system to a reviewer.
+
+## How the AI Agent Works
+
+The agent can use the following components depending on the question:
+
+- **Policy Tool:** Retrieves HR policy passages through RAG and returns source-verified quotations with section references.
+- **SQL Tool:** Queries the fictional SQLite employee database for information such as employee counts and department-level data.
+- **Sick Leave Calculator:** Uses employee leave records to calculate remaining paid sick leave and show pending days separately.
+- **Conversation Memory:** Preserves conversation context to help with follow-up questions.
+- **Review Node:** Checks whether all parts of a request have been handled, including requests requiring multiple tools.
+
+The agent also handles out-of-scope questions, missing information, and questions that are not answerable from the provided policies or data.
+
+## Current Development Status
+
+The core LangGraph workflow, local LLM integration, RAG policy retrieval with citations, SQLite querying, sick leave calculation, and Streamlit interface have been implemented.
 
 **Currently working on:**
 
-- Implementing the **annual leave balance calculator** to calculate employees' remaining annual leave days. The general annual leave policy can already be retrieved, but personal annual leave balance calculations are not implemented yet.
-- Refining tool selection and response handling for different HR questions.
-- Testing the agent with policy, employee-data, and mixed questions.
-- Completing the evaluation and remaining fixes to improve reliability and accuracy.
+- Adding a personal **annual leave balance calculator**. General annual leave policy questions already work, but personal annual leave balances are not yet implemented.
+- Refining tool selection and response handling across different HR questions.
+- Completing an evaluation set of **at least 15 policy, employee-data, and mixed questions**, with recorded results.
+- Final testing and documentation updates.
 
-**Project Status:** Under development and testing.
+**Project status:** Under development and testing.
 
 ---
 
 *An educational project exploring Agentic AI, tool calling, RAG, and multi-step AI workflows.*
-=======
-
