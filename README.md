@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# 🤖 DemoCo HR Copilot — AI Agent
+#  DemoCo HR Copilot — AI Agent
 
 An AI-powered HR assistant built using **Python, LangGraph, Llama 3.2, RAG, and SQLite**.
 
@@ -7,7 +7,7 @@ The project demonstrates how an AI agent can understand HR-related questions, se
 
 The system uses fictional company policies and employee data for educational purposes.
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
 - **Python:** Main programming language for the agent and its tools.
 - **Llama 3.2 (3B) + Ollama:** Runs a local LLM for decision-making, tool selection, and evaluating responses.
@@ -18,7 +18,7 @@ The system uses fictional company policies and employee data for educational pur
 - **Streamlit:** Web-based chat interface for interacting with the HR assistant.
 - **Pydantic:** Validates structured responses and supporting policy evidence.
 
-## 📚 HR Policy Knowledge Base
+## HR Policy Knowledge Base
 
 The RAG system uses five fictional company policy documents:
 
@@ -34,7 +34,7 @@ When an employee asks a policy question, the system retrieves relevant sections 
 
 If a question cannot be answered from the available policies, the assistant reports insufficient information rather than generating an unsupported answer.
 
-## ⚙️ How the AI Agent Works
+##  How the AI Agent Works
 
 The agent uses a **LangGraph workflow** to select and execute tools based on the user's question.
 
@@ -46,7 +46,7 @@ The agent uses a **LangGraph workflow** to select and execute tools based on the
 
 The agent also handles out-of-scope questions and requests with missing information.
 
-## 🚧 Current Development Status
+##  Current Development Status
 
 The core AI agent workflow has been developed, including LangGraph integration, LLM-based tool routing, RAG policy retrieval, SQLite queries, and sick leave calculations.
 
@@ -63,18 +63,4 @@ The core AI agent workflow has been developed, including LangGraph integration, 
 
 *An educational project exploring Agentic AI, tool calling, RAG, and multi-step AI workflows.*
 =======
-# DemoCo HR Copilot
 
-Educational HR assistant using fictional company policies
-and employee data.
-
-## Technology
-- Ollama: llama3.2:3b
-- LangGraph: agent loop and conversation memory
-- RAG: policy retrieval with section citations
-- SQLite: employee data
-- Streamlit: chat interface
-
-## Status
- Evaluation and remaining fixes are ongoing.
->>>>>>> 5f75f3e2a6a326a8b59ded22f40711899ce28042
