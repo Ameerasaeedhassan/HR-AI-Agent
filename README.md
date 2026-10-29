@@ -1,2 +1,14 @@
-# HR-AI-Agent
-An HR Copilot built with LangGraph, Ollama, RAG, SQLite, and Streamlit to answer policy questions with citations, analyze employee data, and calculate sick-leave balances.
+# DemoCo HR Copilot
+
+Educational HR assistant using fictional company policies
+and employee data.
+
+## Technology
+- Ollama: llama3.2:3b
+- LangGraph: agent loop and conversation memory
+- RAG: policy retrieval with section citations
+- SQLite: employee data
+- Streamlit: chat interface
+
+## Status
+ Evaluation and remaining fixes are ongoing.
