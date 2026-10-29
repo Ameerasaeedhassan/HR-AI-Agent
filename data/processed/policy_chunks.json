@@ -1,0 +1,502 @@
+[
+  {
+    "id": "AL-01",
+    "text": "DemoCo Annual Leave Policy\nAL-01: Purpose and Scope\n\nThis policy explains annual leave entitlement, accrual,\napproval, and recordkeeping at DemoCo.\n\nIt applies to full-time employees working the standard\nMonday-to-Friday schedule.\n\nPart-time employees, interns, and contractors are outside\nthe scope of this policy. Their arrangements must be\nconfirmed with Human Resources.",
+    "metadata": {
+      "source": "annual_leave.md",
+      "document_title": "DemoCo Annual Leave Policy",
+      "section_id": "AL-01",
+      "section_title": "Purpose and Scope"
+    }
+  },
+  {
+    "id": "AL-02",
+    "text": "DemoCo Annual Leave Policy\nAL-02: Entitlement and Accrual\n\nEligible employees receive 25 working days of annual leave\nfor a complete calendar year of service.\n\nThe leave year runs from January 1 to December 31.\n\nLeave accrues from the employee's joining date at a rate\nof 25/12 days per complete calendar month of service.\nA partial calendar month does not earn leave under this\nfictional policy.\n\nAccrual calculations retain their full precision.\nBalances are displayed to two decimal places.\n\nLeave may be requested in half-day or full-day increments.\nDisplayed rounding does not create additional entitlement.",
+    "metadata": {
+      "source": "annual_leave.md",
+      "document_title": "DemoCo Annual Leave Policy",
+      "section_id": "AL-02",
+      "section_title": "Entitlement and Accrual"
+    }
+  },
+  {
+    "id": "AL-03",
+    "text": "DemoCo Annual Leave Policy\nAL-03: Submitting a Request\n\nEmployees must submit requests through the HR system at\nleast 10 calendar days before the proposed start date.\n\nEach request must include:\n- The requested start and end dates.\n- The number of working days requested.\n- A brief handover plan.\n- The name of the proposed colleague covering urgent work,\n  where applicable.\n\nEmployees should avoid making non-refundable travel\narrangements before receiving approval.\n\nUrgent requests with shorter notice may be considered by\nthe line manager and HR, but approval is not guaranteed.",
+    "metadata": {
+      "source": "annual_leave.md",
+      "document_title": "DemoCo Annual Leave Policy",
+      "section_id": "AL-03",
+      "section_title": "Submitting a Request"
+    }
+  },
+  {
+    "id": "AL-04",
+    "text": "DemoCo Annual Leave Policy\nAL-04: Approval and Operational Coverage\n\nAll annual leave requires line-manager approval.\n\nManagers consider available leave balance, staffing levels,\noverlapping requests, operational commitments, and handover\narrangements.\n\nHaving sufficient leave balance does not guarantee approval.\n\nManagers should respond within five working days.\nA request remains pending until explicitly approved;\na delayed response does not count as approval.\n\nEmployees must not begin leave while a request is pending\nor rejected.",
+    "metadata": {
+      "source": "annual_leave.md",
+      "document_title": "DemoCo Annual Leave Policy",
+      "section_id": "AL-04",
+      "section_title": "Approval and Operational Coverage"
+    }
+  },
+  {
+    "id": "AL-05",
+    "text": "DemoCo Annual Leave Policy\nAL-05: Balance Calculation and Deductions\n\nThe available balance is calculated as:\n\nAvailable balance =\naccrued current-year entitlement\n+ valid unused carryover\n- current-year leave already taken\n- approved future leave\n\nApproved future leave is reserved immediately so that the\nsame balance cannot be used for another request.\n\nWhen approved leave is taken, it moves from the reserved\namount to the taken amount and is not deducted twice.\n\nPending and rejected requests do not reduce the balance.\n\nStandard requests cannot exceed the available balance.\nRequests to use unaccrued leave require separate written\napproval from HR and the line manager and are outside the\nstandard calculation process.",
+    "metadata": {
+      "source": "annual_leave.md",
+      "document_title": "DemoCo Annual Leave Policy",
+      "section_id": "AL-05",
+      "section_title": "Balance Calculation and Deductions"
+    }
+  },
+  {
+    "id": "AL-06",
+    "text": "DemoCo Annual Leave Policy\nAL-06: Counting Leave Days\n\nAnnual leave is counted in working days.\n\nFor the standard Monday-to-Friday schedule, Saturdays and\nSundays are excluded.\n\nDates listed in DemoCo's approved public-holiday calendar\nare also excluded.\n\nFor example, leave from Monday through the following\nSunday counts as five working days when no public holiday\nfalls within that period.",
+    "metadata": {
+      "source": "annual_leave.md",
+      "document_title": "DemoCo Annual Leave Policy",
+      "section_id": "AL-06",
+      "section_title": "Counting Leave Days"
+    }
+  },
+  {
+    "id": "AL-07",
+    "text": "DemoCo Annual Leave Policy\nAL-07: Carryover and Expiry\n\nEmployees may carry over up to five unused accrued days\ninto the next calendar year.\n\nCarryover is recorded by HR after the year-end balance\nreview. Days already taken or committed to approved future\nleave cannot also be carried over.\n\nCarried-over days must be used by March 31 of the new year.\nThey are used before current-year entitlement.\n\nAny unused carryover expires after March 31 unless the\nHead of HR approves a written exception before that date.\n\nUnused days above the five-day limit expire at year-end\nunless a written exception has been approved.",
+    "metadata": {
+      "source": "annual_leave.md",
+      "document_title": "DemoCo Annual Leave Policy",
+      "section_id": "AL-07",
+      "section_title": "Carryover and Expiry"
+    }
+  },
+  {
+    "id": "AL-08",
+    "text": "DemoCo Annual Leave Policy\nAL-08: Changes and Cancellations\n\nEmployees must request changes or cancellations through\nthe HR system.\n\nChanges to approved dates require fresh manager approval.\n\nWhen a cancellation is approved, the associated reserved\ndays are released back to the available balance.\n\nIf leave is shortened after it has started, HR must verify\nthe actual return-to-work date before restoring unused days.\n\nExpired carryover is not automatically restored through\na cancellation. HR must review such cases.",
+    "metadata": {
+      "source": "annual_leave.md",
+      "document_title": "DemoCo Annual Leave Policy",
+      "section_id": "AL-08",
+      "section_title": "Changes and Cancellations"
+    }
+  },
+  {
+    "id": "AL-09",
+    "text": "DemoCo Annual Leave Policy\nAL-09: Handover and Return to Work\n\nBefore leave begins, employees must update outstanding\ntasks, share necessary handover information, and activate\nan out-of-office message identifying an appropriate contact.\n\nEmployees must return on their next scheduled working day\nafter the approved leave ends.\n\nIf an unexpected event prevents their return, they must\nnotify the line manager and HR as soon as reasonably possible.\nAn extension requires approval.",
+    "metadata": {
+      "source": "annual_leave.md",
+      "document_title": "DemoCo Annual Leave Policy",
+      "section_id": "AL-09",
+      "section_title": "Handover and Return to Work"
+    }
+  },
+  {
+    "id": "AL-10",
+    "text": "DemoCo Annual Leave Policy\nAL-10: Records, Disputes, and Exceptions\n\nHR maintains the official leave records.\n\nEmployees who identify an incorrect balance should contact\nHR with the relevant request details. The disputed balance\nmust be verified before additional leave is confirmed.\n\nExceptions must be documented with the approver's name,\napproval date, and reason.\n\nThis policy does not define sick leave, unpaid leave,\nleave encashment, or final-settlement calculations.\nQuestions on these topics must be referred to the\nrelevant policy or HR.",
+    "metadata": {
+      "source": "annual_leave.md",
+      "document_title": "DemoCo Annual Leave Policy",
+      "section_id": "AL-10",
+      "section_title": "Records, Disputes, and Exceptions"
+    }
+  },
+  {
+    "id": "BN-01",
+    "text": "DemoCo Employee Benefits Policy\nBN-01: Purpose and Scope\n\nThis policy describes DemoCo's learning allowance,\nwellbeing reimbursement, and company equipment arrangements.\n\nIt applies to full-time employees.\n\nPart-time employees, interns, and contractors must confirm\ntheir benefits with HR. Eligibility must not be assumed.\n\nBenefits are subject to the conditions in each section.\nAn available allowance does not guarantee approval.",
+    "metadata": {
+      "source": "benefits.md",
+      "document_title": "DemoCo Employee Benefits Policy",
+      "section_id": "BN-01",
+      "section_title": "Purpose and Scope"
+    }
+  },
+  {
+    "id": "BN-02",
+    "text": "DemoCo Employee Benefits Policy\nBN-02: Learning and Development Allowance\n\nFull-time employees who have successfully completed\nprobation may claim up to AED 2,000 per calendar year\nfor approved professional development.\n\nEligible expenses include job-related courses,\ncertification examinations, and professional workshops.\n\nThe allowance becomes available on the effective date\nof probation confirmation recorded by HR.\n\nThe annual limit is not prorated in the confirmation year.\n\nUnused allowance does not carry over and cannot be\nexchanged for cash.",
+    "metadata": {
+      "source": "benefits.md",
+      "document_title": "DemoCo Employee Benefits Policy",
+      "section_id": "BN-02",
+      "section_title": "Learning and Development Allowance"
+    }
+  },
+  {
+    "id": "BN-03",
+    "text": "DemoCo Employee Benefits Policy\nBN-03: Learning Approval Process\n\nEmployees must obtain written approval from their\nline manager and HR before enrolling or making payment.\n\nRequests must include:\n- The course or examination title.\n- The provider.\n- The business relevance.\n- The total cost.\n- The expected completion date.\n\nApproval must specify the maximum reimbursable amount.\n\nExpenses paid before approval are not eligible under\nthe standard process. Exceptions require written\napproval from the Head of HR.",
+    "metadata": {
+      "source": "benefits.md",
+      "document_title": "DemoCo Employee Benefits Policy",
+      "section_id": "BN-03",
+      "section_title": "Learning Approval Process"
+    }
+  },
+  {
+    "id": "BN-04",
+    "text": "DemoCo Employee Benefits Policy\nBN-04: Learning Reimbursement\n\nEmployees must submit a claim within 30 calendar days\nafter completing the approved activity.\n\nThe claim must include the approval, an itemized receipt,\nproof of payment, and evidence of attendance or completion.\n\nReimbursement is limited to the lowest of:\n- The eligible amount actually paid.\n- The approved maximum amount.\n- The remaining annual learning allowance.\n\nThe expense is allocated to the calendar year in which\nthe activity is completed.\n\nPending approved claims reserve the corresponding\nallowance. Paid claims must not be deducted twice.\n\nRefunds received from the provider must be reported\nto HR so the claim and allowance can be corrected.",
+    "metadata": {
+      "source": "benefits.md",
+      "document_title": "DemoCo Employee Benefits Policy",
+      "section_id": "BN-04",
+      "section_title": "Learning Reimbursement"
+    }
+  },
+  {
+    "id": "BN-05",
+    "text": "DemoCo Employee Benefits Policy\nBN-05: Wellbeing Allowance\n\nFull-time employees who have successfully completed\nprobation may claim up to AED 600 per calendar year\nfor eligible wellbeing expenses.\n\nEligible expenses are gym memberships and organized\nfitness classes purchased after probation confirmation.\n\nEquipment, clothing, food, supplements, and medical\ntreatment are not covered by this allowance.\n\nThe annual limit is not prorated in the confirmation year.\n\nUnused allowance does not carry over and has no cash value.",
+    "metadata": {
+      "source": "benefits.md",
+      "document_title": "DemoCo Employee Benefits Policy",
+      "section_id": "BN-05",
+      "section_title": "Wellbeing Allowance"
+    }
+  },
+  {
+    "id": "BN-06",
+    "text": "DemoCo Employee Benefits Policy\nBN-06: Wellbeing Claims\n\nClaims require an itemized receipt and proof of payment.\n\nEmployees must submit claims within 30 calendar days\nof payment. HR verifies eligibility before reimbursement.\n\nThe expense is allocated to the calendar year of payment,\nincluding when a membership extends into the next year.\n\nReimbursement cannot exceed the eligible amount paid\nor the remaining annual wellbeing allowance.\n\nLearning and wellbeing allowances are separate.\nUnused funds cannot be transferred between them.",
+    "metadata": {
+      "source": "benefits.md",
+      "document_title": "DemoCo Employee Benefits Policy",
+      "section_id": "BN-06",
+      "section_title": "Wellbeing Claims"
+    }
+  },
+  {
+    "id": "BN-07",
+    "text": "DemoCo Employee Benefits Policy\nBN-07: Company Equipment\n\nCompany equipment is assigned according to role\nrequirements and manager approval, including during\nprobation where needed.\n\nEquipment remains company property and must be recorded\nin the asset register.\n\nEmployees must report loss, theft, or damage to IT\nand their line manager as soon as possible.\n\nEquipment must be returned when requested or when\nemployment ends.\n\nThis policy does not define employee liability or\nsalary deductions for lost or damaged equipment.",
+    "metadata": {
+      "source": "benefits.md",
+      "document_title": "DemoCo Employee Benefits Policy",
+      "section_id": "BN-07",
+      "section_title": "Company Equipment"
+    }
+  },
+  {
+    "id": "BN-08",
+    "text": "DemoCo Employee Benefits Policy\nBN-08: Processing and Payment\n\nHR reviews complete reimbursement claims within\n10 working days of submission.\n\nRequests for missing information pause this review period.\n\nApproved claims are scheduled for the next available\npayroll cycle, subject to the payroll cutoff.\n\nSubmitting a claim does not mean it has been approved.\n\nEmployees may contact HR to check the status of a claim.",
+    "metadata": {
+      "source": "benefits.md",
+      "document_title": "DemoCo Employee Benefits Policy",
+      "section_id": "BN-08",
+      "section_title": "Processing and Payment"
+    }
+  },
+  {
+    "id": "BN-09",
+    "text": "DemoCo Employee Benefits Policy\nBN-09: Exclusions and Missing Information\n\nThis policy does not define:\n- Medical insurance coverage.\n- Housing or transport allowances.\n- Flight tickets or travel benefits.\n- Relocation assistance.\n- Bonuses.\n- End-of-service payments.\n\nThe HR Copilot must not infer entitlement to these\nbenefits from this document.\n\nQuestions about excluded benefits must be referred\nto HR or the relevant policy.",
+    "metadata": {
+      "source": "benefits.md",
+      "document_title": "DemoCo Employee Benefits Policy",
+      "section_id": "BN-09",
+      "section_title": "Exclusions and Missing Information"
+    }
+  },
+  {
+    "id": "BN-10",
+    "text": "DemoCo Employee Benefits Policy\nBN-10: Records and Exceptions\n\nHR maintains the official benefit eligibility and\nallowance records.\n\nClaims must not be reimbursed more than once.\nAn expense cannot be claimed under both allowances.\n\nExceptions require written approval from the Head of HR,\nincluding the reason, amount, and applicable dates.\n\nAn exception for one employee does not automatically\nchange the rules for other employees.",
+    "metadata": {
+      "source": "benefits.md",
+      "document_title": "DemoCo Employee Benefits Policy",
+      "section_id": "BN-10",
+      "section_title": "Records and Exceptions"
+    }
+  },
+  {
+    "id": "PR-01",
+    "text": "DemoCo Probation and Confirmation Policy\nPR-01: Purpose and Scope\n\nThis policy defines the onboarding, performance review,\nand confirmation process for newly hired full-time employees.\n\nIt does not apply to interns, contractors, or part-time\nemployees. Their arrangements must be confirmed with HR.",
+    "metadata": {
+      "source": "probation.md",
+      "document_title": "DemoCo Probation and Confirmation Policy",
+      "section_id": "PR-01",
+      "section_title": "Purpose and Scope"
+    }
+  },
+  {
+    "id": "PR-02",
+    "text": "DemoCo Probation and Confirmation Policy\nPR-02: Standard Probation Period\n\nThe standard probation period is three calendar months\nfrom the employee's joining date.\n\nThe scheduled review date is calculated by adding three\ncalendar months to the joining date. If the target month\ndoes not contain the same day number, its last day is used.\n\nFor example, an employee joining on January 15 has a\nscheduled review date of April 15.\n\nReaching the scheduled review date does not automatically\nconfirm employment or activate confirmation-dependent benefits.",
+    "metadata": {
+      "source": "probation.md",
+      "document_title": "DemoCo Probation and Confirmation Policy",
+      "section_id": "PR-02",
+      "section_title": "Standard Probation Period"
+    }
+  },
+  {
+    "id": "PR-03",
+    "text": "DemoCo Probation and Confirmation Policy\nPR-03: Onboarding and Objectives\n\nDuring the first five working days, the line manager\nmust explain the employee's responsibilities, performance\nobjectives, and required training.\n\nObjectives must be documented and shared with the employee.\n\nEmployees must complete assigned onboarding activities\nand raise any access, equipment, or training issues\nwith their manager.\n\nRole-required equipment may be provided during probation,\nas described in the Employee Benefits Policy.",
+    "metadata": {
+      "source": "probation.md",
+      "document_title": "DemoCo Probation and Confirmation Policy",
+      "section_id": "PR-03",
+      "section_title": "Onboarding and Objectives"
+    }
+  },
+  {
+    "id": "PR-04",
+    "text": "DemoCo Probation and Confirmation Policy\nPR-04: Progress Reviews\n\nThe line manager should conduct a progress discussion\napproximately one month after joining.\n\nA final probation review should take place before\nthe scheduled review date.\n\nReviews consider:\n- Progress against agreed objectives.\n- Quality and reliability of work.\n- Collaboration and communication.\n- Completion of required training.\n- Attendance records, considered with approved leave.\n\nManagers must document feedback and give employees\nan opportunity to respond.",
+    "metadata": {
+      "source": "probation.md",
+      "document_title": "DemoCo Probation and Confirmation Policy",
+      "section_id": "PR-04",
+      "section_title": "Progress Reviews"
+    }
+  },
+  {
+    "id": "PR-05",
+    "text": "DemoCo Probation and Confirmation Policy\nPR-05: Confirmation Decision\n\nThe line manager submits a recommendation to HR.\n\nHR verifies the review and issues the written outcome.\n\nAn employee is confirmed only when HR records an approved\nconfirmation with an explicit effective date.\n\nA manager's verbal statement alone is not confirmation.\n\nThe HR record must include the decision, effective date,\napprover, and supporting review reference.",
+    "metadata": {
+      "source": "probation.md",
+      "document_title": "DemoCo Probation and Confirmation Policy",
+      "section_id": "PR-05",
+      "section_title": "Confirmation Decision"
+    }
+  },
+  {
+    "id": "PR-06",
+    "text": "DemoCo Probation and Confirmation Policy\nPR-06: Pending or Delayed Reviews\n\nIf the review is delayed, the employee or manager should\ncontact HR.\n\nA pending review must not be treated as either successful\nconfirmation or unsuccessful completion.\n\nThe HR Copilot must use the recorded status and must not\ninfer confirmation from elapsed service alone.\n\nThis policy does not establish an automatic probation\nextension. Any proposed change requires HR review and\nseparate written documentation.",
+    "metadata": {
+      "source": "probation.md",
+      "document_title": "DemoCo Probation and Confirmation Policy",
+      "section_id": "PR-06",
+      "section_title": "Pending or Delayed Reviews"
+    }
+  },
+  {
+    "id": "PR-07",
+    "text": "DemoCo Probation and Confirmation Policy\nPR-07: Annual Leave During Probation\n\nAnnual leave accrues from the joining date according\nto the Annual Leave Policy.\n\nEmployees on probation may request accrued annual leave\nthrough the standard approval process.\n\nRequests remain subject to available balance,\nnotice requirements, and manager approval.\n\nProbation status alone does not create additional\nannual leave entitlement.",
+    "metadata": {
+      "source": "probation.md",
+      "document_title": "DemoCo Probation and Confirmation Policy",
+      "section_id": "PR-07",
+      "section_title": "Annual Leave During Probation"
+    }
+  },
+  {
+    "id": "PR-08",
+    "text": "DemoCo Probation and Confirmation Policy\nPR-08: Sick Leave During Probation\n\nFull-time employees on probation are covered by the\nSick Leave Policy.\n\nThe annual sick leave allowance, notification rules,\nand medical certificate requirements apply.\n\nProbation status does not remove the requirement\nto report absence or provide supporting documents.",
+    "metadata": {
+      "source": "probation.md",
+      "document_title": "DemoCo Probation and Confirmation Policy",
+      "section_id": "PR-08",
+      "section_title": "Sick Leave During Probation"
+    }
+  },
+  {
+    "id": "PR-09",
+    "text": "DemoCo Probation and Confirmation Policy\nPR-09: Benefits After Confirmation\n\nLearning and wellbeing allowances become available\nfrom the effective confirmation date recorded by HR,\nsubject to the Employee Benefits Policy.\n\nA scheduled review date or pending recommendation\ndoes not activate these allowances.\n\nConfirmation does not automatically guarantee a\nsalary increase, bonus, or promotion.\n\nAny compensation change requires separate written approval.",
+    "metadata": {
+      "source": "probation.md",
+      "document_title": "DemoCo Probation and Confirmation Policy",
+      "section_id": "PR-09",
+      "section_title": "Benefits After Confirmation"
+    }
+  },
+  {
+    "id": "PR-10",
+    "text": "DemoCo Probation and Confirmation Policy\nPR-10: Other Outcomes and Questions\n\nIf successful confirmation is not recommended,\nHR must communicate the outcome and applicable next steps\nthrough the appropriate process.\n\nThis policy does not define termination procedures,\nnotice periods, final settlements, or appeal deadlines.\n\nThe HR Copilot must not invent these rules.\nQuestions about them must be referred to HR or\nan applicable approved document.\n\nEmployees who believe their status is incorrect should\nask HR to verify the official record.",
+    "metadata": {
+      "source": "probation.md",
+      "document_title": "DemoCo Probation and Confirmation Policy",
+      "section_id": "PR-10",
+      "section_title": "Other Outcomes and Questions"
+    }
+  },
+  {
+    "id": "SL-01",
+    "text": "DemoCo Sick Leave Policy\nSL-01: Purpose and Scope\n\nThis policy explains how eligible employees report sickness,\nprovide supporting documents, and record sick leave.\n\nIt applies to full-time employees working the standard\nMonday-to-Friday schedule, including employees on probation.\n\nPart-time employees, interns, and contractors must confirm\ntheir arrangements with HR.",
+    "metadata": {
+      "source": "sick_leave.md",
+      "document_title": "DemoCo Sick Leave Policy",
+      "section_id": "SL-01",
+      "section_title": "Purpose and Scope"
+    }
+  },
+  {
+    "id": "SL-02",
+    "text": "DemoCo Sick Leave Policy\nSL-02: Annual Entitlement\n\nEligible employees receive up to 10 paid working days of\nsick leave per calendar year.\n\nThe full allowance is available from the joining date.\nIt is not prorated or accrued monthly.\n\nUnused sick leave does not carry over into the following year\nand cannot be exchanged for cash or annual leave.\n\nAbsence beyond the allowance requires HR review.\nAdditional paid or unpaid leave is not automatically granted.",
+    "metadata": {
+      "source": "sick_leave.md",
+      "document_title": "DemoCo Sick Leave Policy",
+      "section_id": "SL-02",
+      "section_title": "Annual Entitlement"
+    }
+  },
+  {
+    "id": "SL-03",
+    "text": "DemoCo Sick Leave Policy\nSL-03: Reporting an Absence\n\nEmployees must notify their line manager before their\nscheduled starting time on the first day of absence.\n\nIf an emergency prevents timely notification, the employee\nor a representative must contact the manager as soon as\nreasonably possible.\n\nThe notification should include the expected duration of\nabsence, if known. Employees are not required to share\ntheir diagnosis with their manager.\n\nEmployees must update the manager if the expected return\ndate changes.",
+    "metadata": {
+      "source": "sick_leave.md",
+      "document_title": "DemoCo Sick Leave Policy",
+      "section_id": "SL-03",
+      "section_title": "Reporting an Absence"
+    }
+  },
+  {
+    "id": "SL-04",
+    "text": "DemoCo Sick Leave Policy\nSL-04: Recording the Request\n\nEmployees must submit a sick leave request through the\nHR system within two working days of returning to work.\n\nThe request must include the absence dates and any required\nsupporting documentation.\n\nIf the employee cannot access the system, HR may record\nthe request on their behalf.",
+    "metadata": {
+      "source": "sick_leave.md",
+      "document_title": "DemoCo Sick Leave Policy",
+      "section_id": "SL-04",
+      "section_title": "Recording the Request"
+    }
+  },
+  {
+    "id": "SL-05",
+    "text": "DemoCo Sick Leave Policy\nSL-05: Supporting Documents\n\nAbsences lasting one or two consecutive scheduled working\ndays may be self-certified through the HR system.\n\nAbsences lasting three or more consecutive scheduled working\ndays require a medical certificate covering the absence.\n\nWeekends and company-recognized public holidays do not count\ntoward this threshold and do not break an otherwise\nconsecutive absence.\n\nFor example, absence on Friday, Monday, and Tuesday requires\na medical certificate when all three are scheduled working\ndays and none is a company-recognized public holiday.\n\nMissing documentation must be referred to HR for review.\nThe absence is not automatically converted to annual leave.",
+    "metadata": {
+      "source": "sick_leave.md",
+      "document_title": "DemoCo Sick Leave Policy",
+      "section_id": "SL-05",
+      "section_title": "Supporting Documents"
+    }
+  },
+  {
+    "id": "SL-06",
+    "text": "DemoCo Sick Leave Policy\nSL-06: Counting Sick Leave Days\n\nSick leave is counted in scheduled working days.\n\nFor the standard Monday-to-Friday schedule, Saturdays,\nSundays, and company-recognized public holidays are excluded.\n\nSick leave may be recorded in half-day or full-day increments.\n\nAn absence spanning two calendar years is allocated to\neach year according to the working days falling within it.",
+    "metadata": {
+      "source": "sick_leave.md",
+      "document_title": "DemoCo Sick Leave Policy",
+      "section_id": "SL-06",
+      "section_title": "Counting Sick Leave Days"
+    }
+  },
+  {
+    "id": "SL-07",
+    "text": "DemoCo Sick Leave Policy\nSL-07: Verification and Balance\n\nThe line manager acknowledges the absence notification.\nHR verifies eligibility, documentation, and the remaining\nsick leave allowance.\n\nThe remaining allowance is calculated as:\n\nRemaining sick leave =\n10 days - verified paid sick leave taken in that calendar year\n\nPending requests must be shown separately and are not\ntreated as verified paid leave until HR completes its review.\n\nRequests exceeding the remaining allowance must be\nreferred to HR. The standard tool must not report a\nnegative paid sick leave balance.",
+    "metadata": {
+      "source": "sick_leave.md",
+      "document_title": "DemoCo Sick Leave Policy",
+      "section_id": "SL-07",
+      "section_title": "Verification and Balance"
+    }
+  },
+  {
+    "id": "SL-08",
+    "text": "DemoCo Sick Leave Policy\nSL-08: Illness During Annual Leave\n\nEmployees who become ill during approved annual leave may\nrequest that eligible days be reclassified as sick leave.\n\nReclassification requires:\n- A medical certificate covering the requested dates.\n- Sufficient remaining sick leave allowance.\n- HR verification and approval.\n\nA medical certificate is required for reclassification\nregardless of the number of days requested.\n\nOnly scheduled working days may be reclassified.\nApproved reclassification restores the corresponding\nannual leave days without counting the same absence twice.",
+    "metadata": {
+      "source": "sick_leave.md",
+      "document_title": "DemoCo Sick Leave Policy",
+      "section_id": "SL-08",
+      "section_title": "Illness During Annual Leave"
+    }
+  },
+  {
+    "id": "SL-09",
+    "text": "DemoCo Sick Leave Policy\nSL-09: Medical Information and Confidentiality\n\nMedical certificates must be submitted through the\ndesignated HR channel.\n\nAccess to medical documents is restricted to authorized\nHR personnel.\n\nManagers receive only information needed for attendance,\nwork arrangements, and operational coverage.\n\nThis policy does not authorize storing diagnoses or medical\ncertificates in the HR Copilot's employee analytics dataset.",
+    "metadata": {
+      "source": "sick_leave.md",
+      "document_title": "DemoCo Sick Leave Policy",
+      "section_id": "SL-09",
+      "section_title": "Medical Information and Confidentiality"
+    }
+  },
+  {
+    "id": "SL-10",
+    "text": "DemoCo Sick Leave Policy\nSL-10: Return to Work and Exceptions\n\nEmployees should confirm their return date with the\nline manager.\n\nAny recommended workplace adjustments must be coordinated\nwith HR through the designated process.\n\nDisputed records and exceptional circumstances require\nHR review. The employee must not assume an exception\nhas been approved.\n\nThis policy does not define maternity leave, workplace\ninjury benefits, or medical insurance coverage.\nQuestions on those topics must be referred to HR or\nthe relevant policy.",
+    "metadata": {
+      "source": "sick_leave.md",
+      "document_title": "DemoCo Sick Leave Policy",
+      "section_id": "SL-10",
+      "section_title": "Return to Work and Exceptions"
+    }
+  },
+  {
+    "id": "WH-01",
+    "text": "DemoCo Working Hours and Attendance Policy\nWH-01: Purpose and Scope\n\nThis policy defines the standard working schedule,\nattendance expectations, and approval procedures for\nchanges to working arrangements.\n\nIt applies to full-time employees on the standard office\nschedule.\n\nShift workers, part-time employees, interns, and contractors\nmust confirm their schedules with HR. The standard schedule\nmust not be assumed to apply to them.",
+    "metadata": {
+      "source": "working_hours.md",
+      "document_title": "DemoCo Working Hours and Attendance Policy",
+      "section_id": "WH-01",
+      "section_title": "Purpose and Scope"
+    }
+  },
+  {
+    "id": "WH-02",
+    "text": "DemoCo Working Hours and Attendance Policy\nWH-02: Standard Working Schedule\n\nThe standard working week is Monday through Friday.\n\nOffice hours are 09:00 to 18:00, with a one-hour unpaid\nbreak from 13:00 to 14:00.\n\nThis represents eight working hours per day and\n40 working hours per week.\n\nSaturdays and Sundays are non-working days for employees\non this schedule.\n\nAll times refer to the employee's assigned office location.",
+    "metadata": {
+      "source": "working_hours.md",
+      "document_title": "DemoCo Working Hours and Attendance Policy",
+      "section_id": "WH-02",
+      "section_title": "Standard Working Schedule"
+    }
+  },
+  {
+    "id": "WH-03",
+    "text": "DemoCo Working Hours and Attendance Policy\nWH-03: Breaks and Availability\n\nEmployees must take their scheduled break and coordinate\ncoverage where their role requires continuous service.\n\nChanges to the break time require line-manager approval\nand do not change the total daily working hours.\n\nDuring working hours, employees must remain reasonably\navailable through the company's agreed communication channels.\n\nA full working day is eight working hours.\nA half working day is four working hours, excluding breaks.",
+    "metadata": {
+      "source": "working_hours.md",
+      "document_title": "DemoCo Working Hours and Attendance Policy",
+      "section_id": "WH-03",
+      "section_title": "Breaks and Availability"
+    }
+  },
+  {
+    "id": "WH-04",
+    "text": "DemoCo Working Hours and Attendance Policy\nWH-04: Attendance Records\n\nEmployees must record their actual start and finish times\nin the attendance system.\n\nEmployees must not record attendance on behalf of another\nperson.\n\nIf a record is missing or incorrect, the employee must\nsubmit a correction request within two working days of\ndiscovering the issue.\n\nAttendance corrections require line-manager verification.",
+    "metadata": {
+      "source": "working_hours.md",
+      "document_title": "DemoCo Working Hours and Attendance Policy",
+      "section_id": "WH-04",
+      "section_title": "Attendance Records"
+    }
+  },
+  {
+    "id": "WH-05",
+    "text": "DemoCo Working Hours and Attendance Policy\nWH-05: Late Arrival and Unexpected Absence\n\nEmployees who expect to arrive late must notify their\nline manager as soon as possible and provide an estimated\narrival time.\n\nReporting a delay does not automatically authorize a\nschedule change.\n\nUnexpected absence must be reported before the scheduled\nstarting time where reasonably possible.\n\nSickness-related absence is handled under the Sick Leave\nPolicy, including its notification and documentation rules.",
+    "metadata": {
+      "source": "working_hours.md",
+      "document_title": "DemoCo Working Hours and Attendance Policy",
+      "section_id": "WH-05",
+      "section_title": "Late Arrival and Unexpected Absence"
+    }
+  },
+  {
+    "id": "WH-06",
+    "text": "DemoCo Working Hours and Attendance Policy\nWH-06: Flexible Working Hours\n\nEmployees may request a regular start time between\n08:00 and 10:00.\n\nAn approved flexible schedule must retain eight working\nhours and a one-hour unpaid break per day.\n\nFor example, an approved 08:00 start normally corresponds\nto a 17:00 finish with a one-hour unpaid break.\n\nApproval must be recorded by the line manager and HR.\nEmployees must follow the standard schedule until approval\nis confirmed.\n\nFlexible hours do not change annual or sick leave entitlement.",
+    "metadata": {
+      "source": "working_hours.md",
+      "document_title": "DemoCo Working Hours and Attendance Policy",
+      "section_id": "WH-06",
+      "section_title": "Flexible Working Hours"
+    }
+  },
+  {
+    "id": "WH-07",
+    "text": "DemoCo Working Hours and Attendance Policy\nWH-07: Remote Working\n\nRemote working is not an automatic entitlement.\n\nEmployees must obtain written line-manager approval for\nthe requested dates before working remotely.\n\nApproved remote-working days count as working days,\nnot leave days.\n\nEmployees must follow their approved hours, remain\navailable, and use company-approved systems.\n\nRequests to work from another country require separate\nHR and IT review and are not authorized by ordinary\nremote-working approval.",
+    "metadata": {
+      "source": "working_hours.md",
+      "document_title": "DemoCo Working Hours and Attendance Policy",
+      "section_id": "WH-07",
+      "section_title": "Remote Working"
+    }
+  },
+  {
+    "id": "WH-08",
+    "text": "DemoCo Working Hours and Attendance Policy\nWH-08: Additional Hours\n\nEmployees must obtain written line-manager approval\nbefore performing additional hours beyond their\napproved schedule.\n\nAttendance records alone do not establish entitlement\nto additional pay or time off.\n\nThis policy does not specify overtime payment rates\nor compensatory leave calculations. Such questions\nmust be referred to HR and Payroll.",
+    "metadata": {
+      "source": "working_hours.md",
+      "document_title": "DemoCo Working Hours and Attendance Policy",
+      "section_id": "WH-08",
+      "section_title": "Additional Hours"
+    }
+  },
+  {
+    "id": "WH-09",
+    "text": "DemoCo Working Hours and Attendance Policy\nWH-09: Public Holidays and Temporary Schedules\n\nHR maintains the approved public-holiday calendar.\n\nCompany-recognized public holidays are excluded from\nannual and sick leave deductions for employees on\nthe standard schedule.\n\nTemporary changes to office hours must be communicated\nthrough a formal HR notice stating the applicable\ndates and employee groups.\n\nThe HR Copilot must not invent holiday dates or\ntemporary schedules when no approved record is available.",
+    "metadata": {
+      "source": "working_hours.md",
+      "document_title": "DemoCo Working Hours and Attendance Policy",
+      "section_id": "WH-09",
+      "section_title": "Public Holidays and Temporary Schedules"
+    }
+  },
+  {
+    "id": "WH-10",
+    "text": "DemoCo Working Hours and Attendance Policy\nWH-10: Exceptions and Related Policies\n\nPermanent schedule changes require written approval\nfrom HR and the line manager.\n\nAny exception must identify the employee or group,\nthe approved arrangement, and its effective dates.\n\nAnnual leave requests follow the Annual Leave Policy.\nSickness-related absence follows the Sick Leave Policy.\n\nThis policy does not define disciplinary penalties,\nsalary deductions, or special working-hour entitlements.\nQuestions on these matters must be referred to HR.",
+    "metadata": {
+      "source": "working_hours.md",
+      "document_title": "DemoCo Working Hours and Attendance Policy",
+      "section_id": "WH-10",
+      "section_title": "Exceptions and Related Policies"
+    }
+  }
+]
