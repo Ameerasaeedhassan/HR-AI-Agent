@@ -1,4 +1,4 @@
-# DemoCo HR Copilot — AI Agent
+# **DemoCo HR Copilot AI Agent**
 
 An AI-powered HR assistant built with **Python, LangGraph, Llama 3.2, RAG, and SQLite**.
 
